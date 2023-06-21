@@ -10,7 +10,7 @@ Selenium 4.9.1
 
 Асинхронное сохрание данных в базу SQLlite (my_date_4)
 
-![image](https://github.com/timahols/test/assets/117768695/55ee6c4f-a4ad-492c-a861-e8441061f435)
+![image](https://github.com/timahols/test/assets/117768695/537259e6-8c44-44c1-99c1-e01db0ce4f64)
 
 Логирование в отдельных файл (log_file.log)
 ![image](https://github.com/timahols/test/assets/117768695/38d15cdf-ab3c-4db1-85a7-61c549b85687)
