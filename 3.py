@@ -1,8 +1,4 @@
-import json
-import logging
-import sqlite3
-
-from driver import driver, wait, EC, By, pytest
+from driver import driver, wait, EC, By, pytest, json, logging, sqlite3
 
 # Создание объекта логгера
 logger = logging.getLogger(__name__)
